@@ -1,6 +1,8 @@
 
 # Proyecto 500k Tweets about chatGPT
 
+![chatGPT](chatGPT.png)
+
 ## Contexto y rol a desarrollar
 
 
